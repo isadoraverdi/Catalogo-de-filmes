@@ -1,12 +1,16 @@
 
 body{
     background-color: lightsteelblue;
-    color: rebeccapurple;
+    color: rgb(102, 51, 153);
     font-family: "Edu NSW ACT Cursive", cursive;
+    margin: 0px;
 }
-
-h1{
+header{
+    border-bottom: double 4px rgb(102, 51, 153);
     font-size: 40px;
+ }
+h1{
+    font-size: 30px;
 }
 
 p{
