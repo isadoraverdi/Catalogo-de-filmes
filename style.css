@@ -26,5 +26,8 @@ p{
 }
 div{
     text-align: center;
-    
 }
+#div1{
+    border: dotted 3px black;
+}
+
