@@ -30,5 +30,10 @@ div{
 }
 #div1{
     border: dotted 3px black;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 20px;
 }
 
