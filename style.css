@@ -33,4 +33,20 @@ div{
     font-size: 20px;
     display: flex;
     justify-content: center;
+    margin: 10px;
+}
+
+#div2{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.romance{
+    display:flexbox;
+}
+.fantasia{
+    display: flexbox;
+}
+.ação{
+    display: flexbox;
 }
