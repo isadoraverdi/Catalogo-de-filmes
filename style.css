@@ -24,11 +24,20 @@ p{
     text-align: center;
     padding-top: 50px;
 }
+.sec1{
+    border-top: double 4px black;
+    border-bottom: double 4px black;
+}
+#video{
+    margin-bottom: 30px;
+}
+#p2{
+    padding-top: 20px;
+}
 div{
     text-align: center;
 }
 .chamada-de-texto{
-    margin-bottom: double 15px black;
     display:flexbox;
 }
 img{
