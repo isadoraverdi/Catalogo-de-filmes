@@ -1,9 +1,10 @@
 
 body{
-    background-color: rgb(176, 196, 222);
+    background-color: black;
     color: rgb(102, 51, 153);
     font-family: "Edu NSW ACT Cursive", cursive;
     margin: 0px;
+    margin-bottom: 100px;
 }
 header{
     font-size: 40px;
@@ -22,10 +23,19 @@ p{
     color: black;
     text-align: center;
     padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.inicio{
+    background-color: rgb(176, 196, 222);
+}
+.topo{
+    background-color: rgb(176, 196, 222);
 }
 .sec1{
-    border-top: double 4px black;
-    border-bottom: double 4px black;
+    margin-top: 0%;
+    padding: 30px;
+    background-color: rgb(176, 196, 222)
 }
 #video{
     margin-bottom: 30px;
@@ -37,18 +47,29 @@ div{
     text-align: center;
 }
 .chamada-de-texto{
+    text-align: left;
     display:flexbox;
 }
-img{
-    height: 200px;
-    width: 150px;
-}
+
 .outras{
-    gap: 20px;
     background-color: black;
+    gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
 }
 h2{
     color: white;
     text-align: center;
+    margin: 15px;
+}
+.outras img {
+    opacity: 0.5;
+    height: 200px;
+    width: 150px;
+}
+.outras img:hover {
+    opacity: 1.0;
+    border: 1px solid white;
 }
 
